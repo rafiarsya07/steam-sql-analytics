@@ -2,7 +2,7 @@
 
 A portfolio SQL project that runs **real SQLite queries live in the browser** via WebAssembly — no server, no precomputed data, no build step.
 
-🔗 **Live demo:** [sql.rafiarsya.com/steam](https://sql.rafiarsya.com/steam)
+🔗 **Live demo:** (https://steam.rafiarsya.com/)
 
 ---
 
@@ -126,4 +126,4 @@ All four give free HTTPS and support custom subdomains via a single CNAME record
 
 ## Part of a series
 
-This is the first entry in a growing hub of live SQL case studies at [`sql.rafiarsya.com`](https://sql.rafiarsya.com). Same pattern, different datasets — check back for more.
+This is the first entry in a growing hub of live SQL case studies at [`sql.rafiarsya.com`](https://steam.rafiarsya.com). Same pattern, different datasets — check back for more.
